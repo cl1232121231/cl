@@ -1,0 +1,86 @@
+{
+  "id": "1341265",
+  "name": "cl",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7632",
+      "name": "加",
+      "font_class": "jia",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "446723",
+      "name": "外卖",
+      "font_class": "waimai",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "705665",
+      "name": "房子",
+      "font_class": "fangzi",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "953199",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "991311",
+      "name": "附近",
+      "font_class": "fujin",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "2407260",
+      "name": "搜索",
+      "font_class": "tubiao-",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "2578445",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "4166087",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "6241501",
+      "name": "减",
+      "font_class": "jian",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "6366909",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "9402968",
+      "name": "尖括号-左",
+      "font_class": "changyongicon-",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}
